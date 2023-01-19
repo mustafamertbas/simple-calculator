@@ -1,4 +1,4 @@
-# simple-calculator# Python ile Basit Hesap Makinesi
+# Python ile Basit Hesap Makinesi
 
 Bu projede python ve tkinter  kütüphanesi kullanarak 2 işlem kapasiteli basit bir hesap makinesi yaptım. 
 
