@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/mustafamertbas">
     <img src="https://i.hizliresim.com/70zu244.png" alt="Logo" width="80" height="80">
   </a>
 
