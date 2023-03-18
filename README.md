@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/mustafamertbas">
-    <img src="https://i.hizliresim.com/70zu244.png" alt="Logo" width="80" height="80">
+    <img src="https://i.hizliresim.com/70zu244.png" alt="Logo" width="120" height="120">
   </a>
 
   <h1 align="center">Python ile Basit Hesap Makinesi</h1>
